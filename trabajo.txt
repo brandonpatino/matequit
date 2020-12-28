@@ -1,0 +1,10 @@
+<html>
+<head><title>MATEQUICK</title> </head>
+<body bgcolor="#33D5CD" text="#EAEAEA"> 
+
+<center><H1>BIENVENIDO A MATEQUICK</H1></center>
+<marquee><H2>GRACIAS POR VISITARNOS ESPERO QUE SEA DE TU AGRADO<H2></marquee>
+<a href="https://www.youtube.com/watch?v=uXPciwlfcX4"><img alt="imagen html de ejemplo" src="" width="120" height="75" /></a>
+</body>
+
+</html>
